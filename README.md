@@ -12,7 +12,7 @@ N/A
 
 Through changing most non-semantic tags to semantic tags that describe where they are on the webpage, developers can read and make changes to the webpage with less confusion.
 
-The css file now follows a logical sequential order which also helps with readability. Related tags are sequential and there are less classes necessary to define since the html tags are now sequential and mostly unique, they can now be referenced directly in the css file, cleaning up the code. 
+The css file now follows a logical sequential order which also helps with readability. Related tags are semantic and there are less classes necessary to define since the html tags are now sequential and mostly unique, they can now be referenced directly in the css file, cleaning up the code. 
 
 There was also a bug that has been fixed allowing the user to click on the nav links in the header to skip to the proper sections on the webpage. 
 
